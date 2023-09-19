@@ -19,8 +19,8 @@ Combined emphasis with with **asterisks or _underscores_**.
 Strikethrough uese two tildes.~~Scratch this.~~   
 
 ------
--[] to do list
--[x] 1nd list
--[] 2nd list
--[] 3nd list
+- [] to do list
+- [x] 1nd list
+- [] 2nd list
+- [] 3rd list
 

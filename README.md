@@ -19,11 +19,8 @@ Combined emphasis with with **asterisks or _underscores_**.
 Strikethrough uese two tildes.~~Scratch this.~~   
 
 ------
+-[] to do list
+-[] 1st list
+-[] 2nd list
+-[] 3nd list
 
-..*Unordered sub-list.
---1.Orderes sub-list
-...2.2nd
-
-...*note 1
-...* note 2
-*** note 3

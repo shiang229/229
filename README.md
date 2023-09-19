@@ -29,6 +29,6 @@ Strikethrough uese two tildes.~~Scratch this.~~
 ```ruby
 def index
   s = "Python syntax hightlighting"
-  print s
+  puts s
 end
 ``` 

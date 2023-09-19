@@ -18,5 +18,12 @@ Strong emphais,aka bold,with **asterisks** or **underscores**
 Combined emphasis with with **asterisks or _underscores_**.    
 Strikethrough uese two tildes.~~Scratch this.~~   
 
+------
 
+..*Unordered sub-list.
+--1.Orderes sub-list
+...2.2nd
 
+...*note 1
+...* note 2
+*** note 3

@@ -48,8 +48,7 @@ Strikethrough uese two tildes.~~Scratch this.~~
 |col 2 is|centered｜$12|
 |zebra stripes|are neat|$1 |
 
-
-｜**Markdown**｜**Less**｜**Pretty**｜
+|**Markdown**|**Less**|**Pretty**|
 |:--------------|:---------:|----------:|
 | *still*| `renders`  | **nicely** |
-｜1｜2 ｜3｜
+|1|2|3|

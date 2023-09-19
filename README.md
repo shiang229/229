@@ -10,3 +10,13 @@
 -----
 
 ![NKUST](182513897.png)
+
+
+-------
+Emphais,aka italics, with asterisks or underscores
+Strong emphais,aka bold,with asterisks or underscores
+Combined emphasis with with asterisks or underscores.
+Strikethrough uese two tildes.Scratch this.
+
+
+

@@ -26,5 +26,9 @@ Strikethrough uese two tildes.~~Scratch this.~~
 
 -----
 
-s = "Python syntax hightlighting"
-print s
+```ruby
+def index
+  s = "Python syntax hightlighting"
+  print s
+end
+``` 

@@ -20,7 +20,7 @@ Strikethrough uese two tildes.~~Scratch this.~~
 
 ------
 -[] to do list
--[x] 1st list
+-[x] 1nd list
 -[] 2nd list
 -[] 3nd list
 

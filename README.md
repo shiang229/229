@@ -27,18 +27,18 @@ Strikethrough uese two tildes.~~Scratch this.~~
 -----
 
 ```ruby
-def index
+
   s = "Python syntax highlighting"
   puts s
-end
+
 ``` 
 ---
 
 ```ruby
-def index
+
   var s = "JavaScript syntax highlighting"
   alert(s);
-end
+
 ``` 
 
 

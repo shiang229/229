@@ -55,7 +55,20 @@ Strikethrough uese two tildes.~~Scratch this.~~
   alert(s);
 
 ``` 
+---
 
+1. First ordered list item  
+2. Another item  
+   ..* Unordered sub-list.
+3. Actual numbers don't matter, just that it's a number  
+    ..1. Ordered sub-list  
+   ...2. 2nd  
+4. And another item.  
+...* note 1  
+...* note 2  
+***note 3
+   
+---
 ---
 | **Tables** | **Are** | **Cool** |
 |:--------------|:-------------:|-----:|

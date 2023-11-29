@@ -69,7 +69,6 @@ Strikethrough uese two tildes.~~Scratch this.~~
 ***note 3
    
 ---
----
 | **Tables** | **Are** | **Cool** |
 |:--------------|:-------------:|-----:|
 |col 3 is|right-aligned|$1600|

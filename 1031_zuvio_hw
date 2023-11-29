@@ -35,10 +35,13 @@ class CTriangle extends CShape{
    
 }
 ```
+
 ---
+
 #### 請寫出相對應的java code (github 連結)
 
 ##### 程式碼如下
+
 ```java
 import java.util.ArrayList;
 import java.util.List;
